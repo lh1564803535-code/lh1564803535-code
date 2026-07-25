@@ -61,6 +61,12 @@
   <img src="https://streak-stats.demolab.com/?user=lh1564803535-code&hide_border=true&theme=tokyonight" alt="streak" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lh1564803535-code&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</p>
+
 ## 🤝 Connect
 
 - 📝 Blog: [dalong's blog](https://lh1564803535-code.github.io/my-blog/)
